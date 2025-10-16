@@ -1,0 +1,227 @@
+Chương 29 Phép Thuật Thực Sự Và Phép Thuật Giả
+
+"Ý cô là gì với 'phép thuật thực sự'?" Lith nói.
+
+"Tại thời điểm này vẫn còn quá sớm để nói. Tất nhiên nếu anh quá tò mò, anh có thể nhìn vào tâm trí của tôi ngay bây giờ, nhưng tôi không biết nó có thể hữu ích đến mức nào."
+
+Lith hợp nhất tâm trí của mình với Solus, phát hiện ra cô không hề phóng đại. Tâm trí của cô đầy những 'nếu' và 'nhưng', liên tục kiểm tra các sự kiện, xem lại ký ức, đưa ra hết suy đoán này đến suy đoán khác trước khi bác bỏ chúng.
+
+"Tôi có thể làm gì để giúp cô?"
+
+"Tôi cần hai thứ. Đầu tiên, tất cả những cuốn sách về lịch sử phép thuật mà anh có thể tìm thấy. Thứ hai, chúng ta cần ra khỏi đây và làm một số thí nghiệm. Tôi sẽ giải thích mọi thứ sau."
+
+Lith đến gặp Nana, nhờ bà giúp đỡ.
+
+"Chắc chắn rồi, ta có một cuốn sách lịch sử phép thuật. Nhưng đó không phải là một chủ đề thú vị, vì vậy ta chỉ mua một cuốn bao gồm vài trăm năm qua. Điều đó có đủ cho con không?"
+
+Lith lắc đầu.
+
+"Bà có thể vui lòng liên lạc với Bá tước Lark và hỏi ông ấy xem con có thể mượn thêm một vài cuốn từ ông ấy không?"
+
+"Con chắc chắn là một người kỳ quặc. Đầu tiên con cầu xin ta dạy con phép thuật..."
+
+"Con chưa bao giờ cầu xin. Chính bà đã đề nghị dạy con và con đã chấp nhận."
+
+Nana giả vờ không nghe thấy gì và tiếp tục.
+
+"... và bây giờ khi con có cơ hội để thực hành phép thuật thực sự, con lại muốn chôn mình trong những cuốn sách lịch sử?"
+
+"Sau khi suy ngẫm về những gì bà đã nói với con và những gì Magus Lochra đã viết, con hiểu rằng con cần phải hiểu quá khứ để hiểu hiện tại và lên kế hoạch cho tương lai." Lith ứng biến, đào lên một phương châm gia đình cũ.
+
+"Có lý, phần nào." Nana thừa nhận. "Ta sẽ liên lạc với Lark qua bùa giao tiếp và xem ta có thể làm gì."
+
+"Bá tước cũng có một cái à?" Lith hỏi ngạc nhiên.
+
+"Đó không phải là một bí mật hay gì cả. Quý tộc, thương nhân, binh lính, bất kể xuất thân của bạn là gì, miễn là bạn có thể trả giá, bạn có thể có một cái cho mình."
+
+Lith cảm ơn Nana trước khi quay trở lại phòng làm việc. Cuốn sách rất chi tiết, ghi lại cả những bước ngoặt lịch sử và truyền thuyết.
+
+Lith không biết chính xác họ đang tìm kiếm điều gì, vì vậy anh đọc cẩn thận, chỉ lướt qua các phần về xung đột giữa các quốc gia hoặc Hiệp hội Phép thuật. Thay vào đó, anh tập trung vào việc nghiên cứu cuộc đời của các pháp sư, đại pháp sư và Magi có ảnh hưởng.
+
+Sau khi dành vài giờ nghiên cứu quá khứ, anh đã tìm thấy một mô hình lặp đi lặp lại trong sự trỗi dậy của các Magi. Một số được công nhận là thiên tài từ khi còn nhỏ.
+
+Nhưng hầu hết trong số họ đã bắt đầu được coi là tầm thường nhất, không bao giờ đạt được kết quả đáng chú ý cho đến khi tài năng của họ đột nhiên tăng vọt.
+
+Nó thường xảy ra trong khoảng từ ba mươi đến bốn mươi tuổi, đã qua thời kỳ đỉnh cao được cho là của họ, khi cộng đồng phép thuật gần như đã quên họ.
+
+Tất nhiên, tác giả không biết chuyện gì đã xảy ra để gây ra một sự thay đổi như vậy, vì vậy ông chỉ trình bày những lý thuyết phổ biến nhất vào thời điểm đó. Quá tệ là những đoạn đó giống một tác phẩm hư cấu hơn là báo cáo lịch sử.
+
+Theo một số tin đồn, Magus Elista đã bí mật kết hôn với thần phép thuật, trong khi những người khác cho rằng bà đã tìm thấy một chiếc bùa thần bí từ một nền văn minh đã mất có thể ban cho bà mana vô hạn.
+
+Điều tương tự được cho là đã xảy ra với Magus Morgania và Frejik. Một khởi đầu mờ nhạt, theo sau là sự trỗi dậy đột ngột về quyền lực và vinh quang, không có lời giải thích hợp lý nào ngoài những câu chuyện cổ tích và những cuộc gặp gỡ thần thánh.
+
+"Đây có thể là những gì Solus đang tìm kiếm không? Có lẽ điều đã thay đổi họ không phải là một sự may mắn điên rồ nào đó, mà là sự khám phá ra 'phép thuật thực sự' mà Solus đã đề cập trước đây."
+
+Lith định đóng cuốn sách lại, sau khi đã hết Magi, thì Solus ngăn anh lại.
+
+"Lật trang đi, làm ơn." Lith không biết tại sao, nhưng đã làm theo chỉ dẫn. Bằng cách đọc nhanh qua trang, anh nhận thấy đó là về một số rối loạn ở một nơi xa xôi, trong đó một số pháp sư cấp thấp đã chết.
+
+Solus đã bắt anh lật từng trang cho đến khi cuốn sách kết thúc.
+
+Đã đến giờ ăn trưa, vì vậy Lith bắt đầu đi bộ về nhà.
+
+"Cô có tìm thấy điều gì quan trọng không?"
+
+"Vâng, tôi nghĩ vậy. Tôi chỉ cần chúng ta thực hiện một số thí nghiệm để kiểm tra lý thuyết của tôi. Nếu tôi đúng, một khi anh trải nghiệm sự khác biệt giữa phép thuật giả và phép thuật thực sự, anh sẽ có thể hiểu được lý luận của tôi.
+
+Tôi hy vọng rằng một khi anh làm vậy, anh có thể giúp tôi lấp đầy những lỗ hổng mà tôi không thể giải thích."
+
+Tâm trí và trái tim của Lith đang hỗn loạn, con đường dường như trải dài vô tận trước mắt anh. Ngay cả khi anh ngồi quanh bàn cùng gia đình, anh cũng không thể che giấu những cảm xúc khó chịu của mình.
+
+"Chết tiệt! Chết tiệt tất cả những thứ vớ vẩn này! Đầu tiên là nguồn gốc thực sự của mình, sau đó là phép thuật tinh thần, phép thuật dung hợp và bây giờ là cái này? Mình phải giữ bao nhiêu bí mật để bảo vệ bản thân khỏi thế giới này, để bảo vệ gia đình khỏi mình?
+
+Mình không thể chỉ tìm một cây búa ma thuật hay thứ gì đó, ban cho mình sức mạnh như thần thánh sao? Hoặc có lẽ chỉ cần được một pháp sư cổ đại chọn, để trở thành nhà vô địch của trật tự chỉ bằng cách nói một từ chết tiệt? Tại sao mọi thứ lại phải phức tạp như vậy?
+
+Mình thực sự yêu gia đình mình, ngoại trừ Trion, nhưng mình không thể thành thật với họ. Cứ đà này, mình sẽ không bao giờ có bạn bè, người yêu, bất cứ thứ gì. Mình sẽ buộc phải sống cả đời một mình với những bí mật của mình."
+
+"Không. Không phải một mình." Giọng nói của Solus vang lên trong tâm trí anh, đầy tử tế và trìu mến. Lõi của tòa tháp quanh cổ Lith rung lên, giải phóng những làn sóng mana nhẹ nhàng bao bọc cơ thể anh như một cái ôm ấm áp.
+
+Tâm trạng của Lith nhẹ nhõm đi một chút, cho phép anh có một bữa ăn và cuộc trò chuyện vui vẻ với gia đình, kể cho nhau nghe về công việc trong ngày của mỗi người.
+
+Sau khi rửa bát, cuối cùng anh cũng có thể rời khỏi nhà và đi đến khu rừng Trawn. Lith có một khoảng trống đặc biệt của riêng mình, sâu trong rừng. Một nơi đủ rộng rãi để luyện tập các kỹ năng phép thuật của mình mà không gây nguy hiểm cho cây cối hoặc động vật hoang dã, tránh xa những con mắt tò mò.
+
+Lith và Solus kiểm tra lại môi trường xung quanh để tìm kẻ xâm nhập hoặc ma thú. Không tìm thấy ai, Lith cuối cùng cũng có thể lấy cuốn ma đạo thư của mình ra khỏi không gian túi và bắt đầu ghi nhớ phép thuật cấp một đơn giản nhất mà anh đã tìm thấy trong cuốn sách của Nana.
+
+"Chúng ta không cần một thứ gì đó mạnh mẽ hay phức tạp cho các thí nghiệm của mình. Chỉ cần một thứ gì đó để so sánh với các phép thuật của chính anh. Anh càng thành thạo nó nhanh, chúng ta càng sớm có câu trả lời." Solus giải thích.
+
+Phép thuật đó là Băng Xuyên Thấu, một phiên bản yếu hơn của phép thuật Ngọn Giáo Băng mà Lith đã sử dụng để chống lại những đối thủ khổng lồ như Ry hoặc lợn rừng. Từ ma thuật của nó là "Joruna Lituh", với trọng âm ở chữ u của Joruna và chữ i của Lituh.
+
+Các dấu hiệu tay yêu cầu bắt đầu bằng việc các đầu ngón tay trỏ chạm vào nhau, trước khi kéo chúng ra xa, vẽ một số 7 trong không khí bằng ngón trỏ phải trong khi ngón trỏ trái phải thực hiện các chuyển động đối xứng cùng một lúc.
+
+Sau đó, tay trái phải dừng lại, trong khi ngón trỏ phải phải xoay, vẽ một vòng tròn đầy đủ trước khi chỉ vào mục tiêu.
+
+Kết quả mong đợi là triệu hồi và bắn một mảnh băng khổng lồ vào kẻ thù.
+
+"Chết tiệt! Và đây là một cái đơn giản. Bao nhiêu công sức mà chỉ được một chút lợi nhuận."
+
+Trong lần thử đầu tiên, Lith đã xoay sở để triệu hồi một loại nĩa khổng lồ di chuyển về phía trước vài mét (2,2 yard) trước khi rơi xuống đất.
+
+"Anh đã không hút âm h." Solus nhận xét.
+
+Sau đó là một chiếc boomerang suýt nữa thì chặt đứt đầu anh.
+
+"Là Lìtuh, không phải Litùh!"
+
+Sau một loạt các thất bại không gây nguy hiểm đến tính mạng, Lith phải thừa nhận rằng anh không thể học cả cách phát âm của từ ma thuật và các dấu hiệu tay cùng một lúc. Vì vậy, anh phải ngồi xuống và đọc thuộc lòng câu thần chú cho đến khi anh làm đúng.
+
+Sau đó, anh phải đối mặt trực diện với khả năng phối hợp tay và mắt kém của mình.
+
+"Đó không phải là số bảy, giống số một hơn. Làm cho dòng thứ hai dốc hơn!"
+
+"Anh phải vẽ một vòng tròn, không phải một quả trứng!"
+
+"Anh có thể ngừng tay trái của mình trong chuyển động cuối cùng được không, làm ơn? Nếu không chúng ta sẽ không bao giờ thấy được kết thúc của nó."
+
+Thất bại nối tiếp thất bại, Solus không ngừng cằn nhằn trong tâm trí Lith, sửa chữa nhiều sai lầm mà anh đã mắc phải trong mỗi lần thử.
+
+"Nếu cô giỏi như vậy, tại sao cô không tự mình làm đi?" Lith phản bác, bùng nổ vì thất vọng.
+
+"Xin lỗi, tôi không có cơ thể. Chưa kể tôi không thể thực hiện bất kỳ phép thuật nào trừ khi a) anh biết cách làm nó trước và b) anh cho phép tôi làm điều đó."
+
+Đó là một buổi chiều dài đối với Lith, đầy những lời chửi rủa, mồ hôi và thi triển phép thuật, không nhất thiết theo thứ tự đó, trước khi cuối cùng anh cũng xoay sở để làm đúng Băng Xuyên Thấu.
+
+Anh tiếp tục lặp lại câu thần chú cho đến khi nó trở thành bản năng thứ hai của anh.
+
+"Tôi không thể tin rằng mình đã phải làm việc chăm chỉ như vậy cho câu thần chú đơn giản nhất. Tôi chỉ còn một giờ nữa là đến hoàng hôn. Này, Solus, có đủ thời gian không, hay chúng ta kết thúc công việc hôm nay và về nhà?"
+
+"Còn hơn cả đủ. Nói cho tôi biết, cảm giác sử dụng phép thuật theo cách đó như thế nào?"
+
+"Thành thật mà nói, nó chẳng có cảm giác gì cả. Tôi quá tập trung vào tất cả những thứ vớ vẩn đó đến nỗi tôi hầu như không thể thở được."
+
+Solus gật đầu trong tâm trí.
+
+"Hoàn hảo. Bây giờ hãy thi triển phép thuật Ngọn Giáo Băng của anh, chỉ bắn một ngọn giáo."
+
+Lith mệt đến nỗi thực sự cần phải sử dụng từ ma thuật.
+
+"Jorun!" Với một cái búng cổ tay, Lith đã triệu hồi một ngọn giáo băng mảnh mai, sắc nhọn đánh trúng cái cây gần nhất nhanh hơn và mạnh hơn Băng Xuyên Thấu.
+
+"Bây giờ tập trung, anh đã làm điều đó như thế nào?"
+
+Lith không thể hiểu tất cả những câu hỏi có vẻ ngớ ngẩn đó, nhưng anh tin tưởng Solus đủ để biết rằng cô không chỉ đang cố gắng chọc tức anh.
+
+"Như thường lệ. Đầu tiên, tôi hình dung trong đầu hiệu ứng của phép thuật của mình, những thứ như hình dạng của ngọn giáo, quỹ đạo, v.v.
+
+Sau đó, tôi sử dụng lõi mana của mình để tạo ra đủ mana để hỗ trợ phép thuật của mình, tính đến kích thước của ngọn giáo mà tôi muốn triệu hồi và tôi muốn nó tấn công mạnh đến mức nào.
+
+Cuối cùng, tôi phóng mana của mình ra bên ngoài, trộn nó với năng lượng thế giới để có quyền truy cập vào nguyên tố nước và voilà! Đặt hàng."
+
+"Được rồi, bây giờ sử dụng Băng Xuyên Thấu, một lần nữa. Lần này hãy làm chậm, cố gắng cảm nhận mana của anh chảy theo phép thuật như thế nào."
+
+Lith cần vài lần thử trước khi thành công trong nhiệm vụ mà Solus đã giao cho anh, kết quả thật đáng kinh ngạc.
+
+"Cái quái gì vậy? Ngay khi tôi bắt đầu với các dấu hiệu tay, một phần mana của tôi rời khỏi cơ thể. Và còn hơn thế nữa. Từ ma thuật quyết định cách mana của tôi tương tác với năng lượng thế giới, trong trường hợp này là nguyên tố nước, đồng thời tạo cho phép thuật hình dạng và kích thước của nó."
+
+Lith có thể nói rằng nếu Solus có một khuôn mặt, bây giờ cô ấy sẽ có một nụ cười tự mãn từ tai này sang tai kia.
+
+"Anh gần đến đích rồi. Làm lại Băng Xuyên Thấu đi, nhưng cố gắng làm cho mảnh băng lớn hơn."
+
+"Tôi không thể." Lith sững sờ. "Nếu tôi cố gắng thêm nhiều mana hơn, phép thuật sẽ trở nên không ổn định và tan biến."
+
+Solus yêu cầu anh thử tạo ra một mảnh băng thứ hai, sau đó làm cho mảnh băng duy nhất nhanh hơn và cuối cùng là thay đổi quỹ đạo của nó ngay sau khi nó hiện thực hóa. Câu trả lời của Lith luôn giống nhau.
+
+"Tôi không thể. Toàn bộ câu thần chú đã được định sẵn. Một khi tôi đã học được các dấu hiệu và cách phát âm đúng, tôi không hơn gì một nguồn mana và một hệ thống nhắm mục tiêu. Lõi mana và trí tưởng tượng của tôi không đóng vai trò gì trong loại thi triển phép thuật này."
+
+Lith đột nhiên giác ngộ.
+
+"Và đó là lý do tại sao cô coi nó là phép thuật giả!"
+
+"Gọi nó là phép thuật giả thì hơi cực đoan, nhưng để đơn giản, chúng ta hãy gọi nó như vậy."
+
+Lith có thể cảm nhận được Solus đang tràn đầy niềm tự hào.
+
+"Bây giờ tôi cuối cùng cũng có thể chia sẻ lý thuyết của mình với anh. Trước hết, tôi muốn anh nghĩ lại về tất cả các bước cần thiết để anh sử dụng phép thuật thực sự."
+
+Solus dừng lại một lúc, cho Lith đủ thời gian để suy nghĩ.
+
+"Ý cô là gì?"
+
+"Ý tôi là những gì anh coi thường là 'thông thường', thực sự là một kỳ công rất phức tạp, khó hơn nhiều so với phép thuật giả."
+
+"Hmmm. Xin lỗi, tôi vẫn không thể theo kịp cô."
+
+Solus khịt mũi trong tâm trí vì thất vọng.
+
+"Phép thuật thực sự không đơn giản như anh nghĩ. Nó đòi hỏi phải nhận thức được lõi mana của chính mình và có thể tạo ra đúng lượng mana cho mỗi và mọi phép thuật. Quá nhiều mana và nó sẽ phản tác dụng với anh, quá ít và nó sẽ không thành công.
+
+Nó cũng đòi hỏi phải có khả năng phóng mana của mình ra bên ngoài, tự mình tiếp cận năng lượng thế giới. Tôi nghi ngờ ngay cả Nana cũng có thể làm được điều đó."
+
+Lith thấy phần cuối cùng đó khó tin.
+
+"Khi cô nói như vậy, chắc chắn, đó không phải là một kỳ công dễ dàng. Nhưng đó là những gì mọi người làm với phép thuật việc vặt. Sự khác biệt giữa phép thuật thực sự và phép thuật việc vặt là gì? Tại sao không ai khác sử dụng nó?"
+
+"Sự khác biệt nằm ở lượng mana cần thiết. Phép thuật việc vặt cần ít mana, vì vậy bạn có thể sử dụng nó ngay cả khi không kích hoạt lõi mana của mình, trong khi phép thuật thực sự có thể yêu cầu một lượng lớn mana, tùy thuộc vào những gì bạn đang cố gắng thực hiện."
+
+Thấy Lith đang gặp khó khăn, Solus bắt đầu sử dụng một giọng điệu đơn điệu, giảng giải.
+
+"Phép thuật việc vặt là nền tảng cơ bản cho phép thuật, nó dạy cho bạn mọi thứ bạn cần ngoại trừ cách kích hoạt lõi mana. Phép thuật giả giống như một cây nạng, một phương pháp thi triển phép thuật 'phép thuật cho người mới bắt đầu' chắc chắn.
+
+Bạn chỉ cần học một vài từ và cử chỉ và nó sẽ tự làm mọi thứ, miễn là bạn có đủ mana. Giả thuyết của tôi là phép thuật việc vặt và phép thuật giả được dạy theo thứ tự này như một khóa đào tạo hướng tới phép thuật thực sự.
+
+Nhưng chỉ một số ít, như các Magi, hiểu rằng phép thuật giả không phải là về các chuyển động ngón tay và các từ đánh vần, mà là về việc nhận thức dòng chảy mana và học cách kiểm soát nó.
+
+Các bài tập thở của anh cũng là một cây nạng, nhưng là một cây nạng tốt, vì chúng đã giúp anh tiếp cận lõi mana, làm cho anh nhận thức được dòng chảy mana. Phép thuật giả, thay vào đó, là một cây nạng tồi, vì nó khiến người dùng của nó quá phụ thuộc vào sức mạnh của nó.
+
+Hầu hết những người sử dụng phép thuật giả đều bị ám ảnh bởi các chi tiết như dấu hiệu tay và cách phát âm, đến nỗi họ sống cả đời mà không nhận ra những gì nằm ngoài. Các pháp sư giả, đặc biệt là những người có tài năng lớn, trở nên quá tự mãn khi có thể làm những gì không ai khác có thể, đến nỗi họ không bao giờ dừng lại một lúc để tự hỏi tại sao. Thật là mỉa mai."
+
+Lith kinh ngạc. Mọi thứ đều hoàn toàn hợp lý.
+
+"Nhưng nếu cô đã hiểu hết những điều này, tại sao cô không nói với tôi? Những lỗ hổng trong lý thuyết của cô mà cô đã đề cập trước đó là gì?"
+
+Solus xấu hổ, nhưng vẫn trả lời.
+
+"Bởi vì tôi không thể trả lời một số điểm chính trong lý thuyết của chính mình. Nếu tôi đúng, tại sao phép thuật giả lại là phép thuật duy nhất có sẵn cho mọi người? Tại sao các pháp sư thực sự lại giết bất cứ ai cố gắng truyền bá nó cho cả thế giới?"
+
+"Nói gì cơ?!?"
+
+Solus hợp nhất tâm trí của họ, cho Lith thấy tất cả những điều cô đã nhận thấy khi đọc cuốn sách lịch sử. Làm thế nào rất nhiều nhà lý thuyết và các pháp sư đang lên đều đã chết trong các tai nạn hoặc hoàn cảnh bí ẩn, thường là ngay sau khi công bố cho cộng đồng phép thuật một khám phá đột phá.
+
+Những người khác, thay vào đó, sẽ bị coi là những kẻ lừa đảo, trước khi phát điên và biến mất.
+
+Lith chỉ có thể cười phá lên.
+
+"Ồ, trời ơi. Solus, cô thật thông minh nhưng lại ngây thơ trong cách đối nhân xử thế. Câu trả lời thực sự đơn giản. Cô có biết tại sao ở Trái đất chúng tôi lại có tắc đường không? Bởi vì mọi người đều có thể có một chiếc ô tô.
+
+Cô có thực sự để bất kỳ kẻ điên nào, bất kỳ kẻ ngốc ngây thơ nào có được loại sức mạnh này không? Phép thuật giả là một phương tiện để kiểm soát quần chúng, nó không phải là bài kiểm tra cuối cùng như cô nghĩ.
+
+Sau khi một người khám phá ra phép thuật thực sự, bài kiểm tra cuối cùng là chứng tỏ mình đủ thông minh để âm thầm tham gia câu lạc bộ và gặt hái những lợi ích. Và nếu bạn không thích các quy tắc của câu lạc bộ, lối thoát duy nhất là cái chết."
