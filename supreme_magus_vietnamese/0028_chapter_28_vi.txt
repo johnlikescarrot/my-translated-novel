@@ -1,181 +1,181 @@
-Chương 28 Phép Thuật Thực Sự
+Chương 28 Phép thuật đích thực
 
-"Cộng đồng phép thuật giống như một xã hội riêng biệt, và giống như bất kỳ xã hội nào, nó có một hệ thống phân cấp rõ ràng. Đầu tiên là những người bình thường.
+"Cộng đồng ma thuật giống như một xã hội riêng biệt, và giống như bất kỳ xã hội nào, nó có một hệ thống phân cấp rõ ràng. Đầu tiên là những người bình thường.
 
-Bất kỳ ai cũng có khả năng sử dụng phép thuật việc vặt, nhưng phạm vi của họ chỉ đạt được hai mét (2,2 yard) và không có khả năng thực hiện bất kỳ nhiệm vụ phức tạp nào. Họ thậm chí không được coi là người. Hầu hết các pháp sư gọi họ là gia súc.
+Bất cứ ai cũng có khả năng sử dụng phép thuật việc vặt, nhưng phạm vi của họ hầu như không đạt đến hai mét (2,2 yard) và không có khả năng thực hiện bất kỳ nhiệm vụ phức tạp nào. Họ thậm chí không được coi là người. Hầu hết các pháp sư gọi họ là gia súc.
 
-Sau đó là những người như cậu, có thể sử dụng tất cả sáu nguyên tố, có thể thực hiện các nhiệm vụ phức tạp bằng phép thuật, nhưng thiếu một nền giáo dục phép thuật đúng đắn.
+Sau đó đến những người như con, có thể sử dụng tất cả sáu nguyên tố, có thể thực hiện các nhiệm vụ phức tạp bằng phép thuật, nhưng thiếu một nền giáo dục ma thuật thích hợp.
 
-Họ được gọi là magico (nam) hoặc magica (nữ) và là nền tảng thực sự của cộng đồng phép thuật, từ đó các pháp sư có thể mong đợi một thế hệ con cháu có tài năng phép thuật.
+Họ được gọi là magico (nam) hoặc magica (nữ) và là nền tảng thực sự của cộng đồng ma thuật, từ đó các pháp sư có thể mong đợi một thế hệ con cháu có tài năng ma thuật.
 
-Ngay cả khi nó được coi là không phổ biến, một magica đôi khi có thể được một học viện phép thuật chấp nhận và trở thành một pháp sư chính thức, giống như đã xảy ra với tôi.
+Ngay cả khi được coi là không phổ biến, một magica đôi khi có thể được một học viện ma thuật chấp nhận và trở thành một pháp sư chính thức, giống như đã xảy ra với ta.
 
 Một magico thường trở thành một thầy lang trong một ngôi làng hoặc thành phố, tùy thuộc vào tài năng của anh ta. Một magico trở thành một pháp sư thậm chí còn không phổ biến hơn, nhưng không hề hiếm.
 
-Các thuật ngữ như pháp sư, phù thủy, nữ phù thủy, thầy phù thủy đều chỉ là những từ khác nhau để xác định một người đã xoay sở để đăng ký vào một học viện phép thuật và hoàn thành khóa học năm năm cần thiết để được công nhận là một thành viên thực sự của cộng đồng phép thuật.
+Các thuật ngữ như pháp sư, phù thủy, nữ phù thủy, thầy phù thủy đều là những từ khác nhau để xác định một người đã cố gắng ghi danh vào một học viện ma thuật và hoàn thành khóa học năm năm cần thiết để được công nhận là một thành viên thực sự của cộng đồng ma thuật.
 
-Tại thời điểm đó, người ta chỉ cần theo đuổi tham vọng của mình. Bạn có thể trở thành pháp sư riêng của một quý tộc, nếu bạn thích cuộc sống tại triều đình. Những người khác chọn cống hiến cả cuộc đời để nghiên cứu phép thuật hoặc tạo ra các cổ vật cụ thể.
+Vào thời điểm đó, người ta chỉ cần theo đuổi tham vọng của mình. Con có thể trở thành pháp sư riêng của một quý tộc, nếu con thích cuộc sống ở triều đình. Những người khác chọn cống hiến cả đời để nghiên cứu phép thuật hoặc tạo ra các tạo tác cụ thể.
 
-Miễn là bạn không làm bất cứ điều gì để đóng góp tích cực vào sự phát triển của Vương quốc hoặc Hiệp hội Pháp sư, bạn sẽ chỉ mãi là một pháp sư, bất kể bạn mạnh mẽ đến đâu hoặc bạn đạt được điều gì với các thí nghiệm của mình.
+Miễn là con không làm bất cứ điều gì để đóng góp tích cực vào sự phát triển của Vương quốc hoặc Hiệp hội Pháp sư, con sẽ chỉ mãi là một pháp sư, bất kể con mạnh mẽ đến đâu hoặc con đạt được điều gì với các thí nghiệm của mình.
 
-Hãy nhớ rằng, không có pháp sư nào có thể bị buộc phải chia sẻ các phép thuật hoặc khám phá của mình trong lĩnh vực phép thuật. Ngay cả chính Vua cũng không thể công khai vi phạm quy tắc này.
+Hãy nhớ rằng, không có pháp sư nào có thể bị buộc phải chia sẻ các phép thuật hoặc khám phá của mình trong lĩnh vực ma thuật. Ngay cả chính Nhà vua cũng không thể công khai vi phạm quy tắc này.
 
-Nhưng những gì bạn giữ cho riêng mình không có giá trị đối với xã hội, do đó nó không mang lại cho bạn công lao gì.
+Nhưng những gì con giữ cho riêng mình không có giá trị đối với xã hội, do đó nó không mang lại cho con công lao nào.
 
-Chỉ bằng cách chia sẻ kiến thức của bạn hoặc bằng cách sử dụng nó để thực hiện các nhiệm vụ mà Vương quốc hoặc Hiệp hội Pháp sư có lợi ích lớn, bạn mới có thể được nâng lên địa vị của một đại pháp sư.
+Chỉ bằng cách chia sẻ kiến thức của con hoặc bằng cách sử dụng nó để thực hiện các nhiệm vụ mà Vương quốc hoặc Hiệp hội Pháp sư có lợi ích lớn, con mới có thể được nâng lên địa vị của một đại pháp sư.
 
 Họ đối với các pháp sư cũng giống như các công tước và hầu tước đối với các quý tộc.
 
-Và cuối cùng, có Magus. Một Magus là một người có sức mạnh chỉ ngang bằng với những công lao xuất sắc của anh ta đối với cộng đồng và kiến thức mà anh ta đã chia sẻ với Hiệp hội Phép thuật.
+Và cuối cùng, có Magus. Một Magus là một người có sức mạnh chỉ ngang bằng với những công lao xuất sắc của anh ta đối với cộng đồng và kiến thức mà anh ta đã chia sẻ với Hiệp hội Ma thuật.
 
-Một Magus thường đảm bảo cho những người đến sau anh ta một sự hiểu biết sâu sắc hơn về phép thuật, và các phương tiện để đạt được nền tảng tốt hơn so với những người tiền nhiệm của họ.
+Một Magus thường đảm bảo cho những người đi sau anh ta một sự hiểu biết sâu sắc hơn về phép thuật, và các phương tiện để đạt được nền tảng tốt hơn so với những người tiền nhiệm của họ.
 
-Một Magus là một Vua đối với các pháp sư, và một vị thần đối với con người. Rất hiếm khi có nhiều hơn một. Bất cứ khi nào bất kỳ quốc gia nào có hai hoặc nhiều Magi, nó được coi là đang ở trong thời kỳ hoàng kim của mình, mọi thứ đều trở nên khả thi."
+Một Magus là một vị Vua đối với các pháp sư, và một vị thần đối với loài người. Rất hiếm khi có nhiều hơn một. Bất cứ khi nào bất kỳ quốc gia nào có hai hoặc nhiều Magi, nó được coi là đang ở trong thời kỳ hoàng kim của mình, mọi thứ đều trở nên có thể."
 
 Lith không mấy ấn tượng.
 
-"Về cơ bản, đó chỉ là một danh hiệu hào nhoáng mà một số lão già ép buộc bạn sau khi vắt kiệt sức bạn. Tôi không biết liệu khi trở thành một Magus, tôi sẽ cảm thấy buồn hay chỉ đơn giản là mất hết lòng tự trọng."
+"Về cơ bản, đó chỉ là một danh hiệu hào nhoáng mà một số lão già cổ hủ ép buộc lên người bạn sau khi vắt kiệt sức của bạn. Tôi không biết liệu khi trở thành một Magus, tôi sẽ chỉ cảm thấy buồn hay đơn giản là mất hết lòng tự trọng."
 
-"Đồ con hoang hỗn xược!" Nana nổi giận vì sự thiếu tôn trọng như vậy. "Nếu không có những Magi như Lochra và di sản của họ, những người như tôi sẽ không bao giờ có cơ hội vượt qua kỳ thi tuyển sinh của bất kỳ học viện nào, dù nhỏ hay không đáng kể.
+"Đồ nhóc hỗn xược!" Nana tức giận trước sự thiếu tôn trọng như vậy. "Nếu không có những Magi như Lochra và di sản của họ, những người như ta sẽ không bao giờ có cơ hội vượt qua kỳ thi tuyển sinh của bất kỳ học viện nào, dù nhỏ hay không đáng kể.
 
-Nó sẽ vẫn là một đặc quyền cho những người có tài năng xuất chúng, hoặc đến từ các gia đình quý tộc hoặc pháp sư.
+Nó sẽ vẫn là một đặc quyền cho những người có tài năng xuất chúng, hoặc đến từ các gia đình quý tộc hoặc ma thuật.
 
-Chỉ bằng cách viết cuốn sách đó, bà ấy đã sẵn sàng hy sinh một lợi thế lớn mà bà ấy có so với tất cả những người cùng thời!"
+Chỉ bằng cách viết cuốn sách đó, bà ấy đã sẵn sàng hy sinh một lợi thế lớn mà bà ấy có được so với tất cả những người cùng thời!"
 
 Lith lắc đầu.
 
-"Tôi thấy khác, Sư phụ. Theo ý kiến của tôi, bà có một tài năng xuất chúng. Nếu trong quá khứ ngay cả những người có năng khiếu như bà cũng không được chấp nhận, về lâu dài điều này sẽ dẫn đến sự suy giảm của cộng đồng phép thuật, nếu không muốn nói là hoàn toàn biến mất.
+"Tôi thấy khác, thưa Sư phụ. Theo ý kiến của tôi, bà có một tài năng xuất chúng. Nếu trong quá khứ ngay cả những người có năng khiếu như bà cũng không được chấp nhận, về lâu dài điều này sẽ dẫn đến việc cộng đồng ma thuật suy yếu, nếu không muốn nói là hoàn toàn biến mất.
 
-Sinh ra trong một gia đình giàu có hoặc tài năng chỉ mang lại cho bạn nhiều nguồn lực và học vấn hơn, nhưng tài năng được quyết định khi sinh ra.
+Việc sinh ra trong một gia đình giàu có hoặc tài năng chỉ mang lại cho bạn nhiều nguồn lực và học vấn hơn, nhưng tài năng được quyết định khi sinh ra.
 
-Do đó, Lochra hẳn đã viết cuốn sách đó không phải vì lòng tốt của bà, mà là để sửa chữa một sai sót nguy hiểm trong cộng đồng phép thuật. Đúng là phép thuật cho phép đánh bại số lượng bằng chất lượng, nhưng vẫn có sức mạnh trong số lượng.
+Do đó, Lochra hẳn đã viết cuốn sách đó không phải vì lòng tốt của bà, mà để sửa chữa một sai sót nguy hiểm trong cộng đồng ma thuật. Đúng là phép thuật cho phép đánh bại số lượng bằng chất lượng, nhưng vẫn có sức mạnh trong số lượng.
 
 Nếu không có những người như bà, có lẽ ngay cả như tôi, sẽ không có đủ máu mới, và phép thuật sớm muộn gì cũng sẽ biến mất. Đây là lý do tại sao tôi không thể coi cuốn sách của bà như một món quà. Bà ấy cần chúng tôi, và rất cần."
 
-Nana mở miệng để khiển trách Lith, nhưng dừng lại giữa chừng. Bà suy nghĩ một lúc trước khi nói lại.
+Nana mở miệng để quở trách Lith, nhưng đã dừng lại giữa chừng. Bà suy nghĩ một lúc trước khi nói lại.
 
-"Chết tiệt, Lith, dù mẹ con đã cho con ăn gì khi còn bé, ta ước gì ta cũng có nó khi ta bằng tuổi con. Ta chưa bao giờ nhìn nó từ góc độ này, nhưng ta đã có thể cảm nhận đủ sự thật đằng sau lời nói của con để không coi chúng là lời nói trẻ con."
+"Chết tiệt, Lith, bất cứ thứ gì mẹ con đã cho con ăn khi còn nhỏ, ta ước gì ta cũng có nó khi bằng tuổi con. Ta chưa bao giờ nhìn nhận nó từ góc độ này, nhưng ta đã có thể cảm nhận đủ sự thật đằng sau những lời nói của con để không coi chúng là những lời nói trẻ con."
 
-Bà thở dài hối tiếc.
+Bà thở dài một cách hối tiếc.
 
-"Ta ước gì ta cũng sâu sắc như vậy ngày xưa. Ta đã có thể tránh được rất nhiều sai lầm ngu ngốc."
+"Ta ước gì ta đã sâu sắc như vậy hồi còn trẻ. Ta đã tránh được rất nhiều sai lầm ngu ngốc."
 
-"Vâng, chắc chắn rồi." Lith nghĩ. "Một người đàn ông ngoài ba mươi tuổi đến từ Trái đất và không thể nhìn thấy nhiều như vậy sẽ là một kẻ ngốc hoàn toàn. Học bổng ở đây hay ở Trái đất đều giống nhau.
+"Vâng, chắc chắn rồi." Lith nghĩ. "Một người đàn ông ngoài ba mươi tuổi đến từ Trái đất và không thể nhìn thấy nhiều như vậy sẽ là một kẻ hoàn toàn ngu ngốc. Học bổng ở đây hay ở Trái đất đều giống nhau.
 
-Hoặc là một cách để người giàu thoát khỏi một phần cảm giác tội lỗi vì quá giàu, hoặc là biểu hiện của nỗi sợ hãi của họ.
+Hoặc là một cách để người giàu thoát khỏi một phần cảm giác tội lỗi vì quá giàu, hoặc là sự biểu hiện của nỗi sợ hãi của họ.
 
-Nỗi sợ hãi không có bác sĩ, luật sư hoặc bất kỳ sự trợ giúp chuyên nghiệp nào khi họ cần. Nếu chỉ cần có con cháu là đủ cho nhu cầu của họ, họ đã đóng cửa các trường học từ nhiều thế kỷ trước."
+Nỗi sợ không có bác sĩ, luật sư hay bất kỳ sự giúp đỡ chuyên nghiệp nào khi họ cần. Nếu chỉ cần có con cái là đủ cho nhu cầu của họ, họ đã đóng cửa các trường học từ nhiều thế kỷ trước."
 
 Cửa phòng chờ của Nana mở ra, khách hàng đầu tiên trong ngày đã đến.
 
-"Đến lúc kiếm tiền rồi. Con có câu hỏi nào khác từ lời nói đầu không?" Bà cố gắng tỏ ra mỉa mai, nhưng vẫn còn đang suy ngẫm về lời nói của Lith, vì vậy bà thiếu đi giọng điệu phù hợp.
+"Đến lúc kiếm tiền rồi. Con có câu hỏi nào khác từ lời tựa không?" Bà cố gắng tỏ ra mỉa mai, nhưng vẫn còn đang suy ngẫm về những lời nói của Lith, vì vậy bà thiếu đi giọng điệu phù hợp.
 
-"Chỉ một thôi. Con có thể cần ghi chú. Có thứ gì con có thể dùng để viết không?"
+"Chỉ một. Con có thể cần ghi chú. Có thứ gì con có thể dùng để viết không?"
 
-"Nhưng tất nhiên rồi." Sau khi xác nhận rằng người phụ nữ và đứa trẻ vừa vào phòng chờ chỉ cần kiểm tra y tế, Nana đã lịch sự yêu cầu họ đợi một hoặc hai phút.
+"Nhưng tất nhiên rồi." Sau khi xác nhận rằng người phụ nữ và đứa trẻ vừa vào phòng chờ chỉ cần kiểm tra sức khỏe, Nana đã lịch sự yêu cầu họ đợi một hoặc hai phút.
 
-Nana và Lith quay trở lại phòng làm việc của bà, nơi bà đưa cho anh một cuốn sách lớn, dày có bìa cứng màu đỏ. Các trang của nó hoàn toàn trống.
+Nana và Lith trở lại phòng học của bà, nơi bà đưa cho anh một cuốn sách lớn, dày với bìa cứng màu đỏ. Các trang của nó hoàn toàn trống.
 
-"Đây sẽ là cuốn ma đạo thư đầu tiên của con. Hãy trân trọng nó. Giấy hiếm và đắt về bản chất. Nó được bán theo trọng lượng, và nó quý hơn bạc."
+"Đây sẽ là cuốn ma đạo thư đầu tiên của con. Hãy trân trọng nó. Giấy hiếm và đắt tiền tự nhiên. Nó được bán theo trọng lượng, và nó quý hơn bạc."
 
 Lith sững sờ trước tin tức như vậy. Cuốn sách dài hai mươi bảy cm (10,7 inch), rộng mười bảy cm (6,7 inch) và dày ba cm (1,2 inch). Nó rất lớn.
 
-"T-tôi..." Lith nói lắp lần thứ hai trong cuộc sống mới của mình. "Tôi không biết phải nói gì. Tôi không thể tin rằng bà lại làm một việc như vậy cho tôi, nó hẳn đã tốn của bà cả một gia tài. Tôi vô cùng cảm động." Một giọt nước mắt xuất hiện sau mắt anh.
+"T-tôi..." Lith lắp bắp lần thứ hai trong cuộc đời mới của mình. "Tôi không biết phải nói gì. Tôi không thể tin rằng bà lại làm một điều như vậy cho tôi, nó hẳn đã tốn của bà cả một gia tài. Tôi vô cùng cảm động." Một giọt nước mắt xuất hiện sau mắt anh.
 
 Nana cười lớn.
 
-"Ồ! Ồ! Ồ! Thật khôn ngoan nhưng lại ngây thơ. Con cá là ta sẽ không làm vậy! Tiền không mọc trên cây. Nếu là do ta, một vài trang là đủ, thằng nhóc."
+"Ồ! Ồ! Ồ! Thật thông thái mà lại ngây thơ. Con cá là ta sẽ không làm vậy! Tiền không mọc trên cây. Nếu là do ta, một vài trang là đủ rồi, con quỷ nhỏ."
 
-Sự ấm áp trong lòng anh tắt ngấm nhanh như khi nó xuất hiện.
+Sự ấm áp trong trái tim anh chết đi nhanh như khi nó xuất hiện.
 
-"Vậy thì tôi phải cảm ơn ai?"
+"Vậy thì con phải cảm ơn ai vì điều đó?"
 
-"Bá tước Lark, còn ai nữa? Quý tộc đó là một người đam mê phép thuật, ông ta đã gửi nó cho ta ngay khi được thông báo về việc học nghề của con. Bây giờ hãy học nhiều hơn và nói ít đi. Con ở đây để học phép thuật, không phải để trò chuyện!"
+"Bá tước Lark, còn ai nữa? Quý tộc đó là một người đam mê phép thuật, ông ấy đã gửi nó cho ta ngay khi được thông báo về việc học nghề của con. Bây giờ hãy học nhiều hơn và ít nói nhảm hơn. Con ở đây để học phép thuật, không phải để trò chuyện!"
 
-Nana vội vã rời đi, hy vọng tránh được việc phòng chờ của mình bị tắc nghẽn bởi bệnh nhân.
+Nana vội vã rời đi, hy vọng tránh được việc phòng chờ của bà bị tắc nghẽn bởi bệnh nhân.
 
-Lith ngồi lại sau bàn làm việc và tiếp tục đọc. Hầu hết nội dung của cuốn sách của Lochra đều là tin cũ đối với anh. Anh đã tự mình khám phá ra chúng thông qua vô số thí nghiệm thử và sai.
+Lith ngồi lại sau bàn làm việc và tiếp tục đọc. Hầu hết nội dung của cuốn sách của Lochra đều là tin cũ đối với anh. Anh đã tự mình khám phá ra chúng qua vô số thí nghiệm thử và sai.
 
 Anh chỉ có thể thở dài hối tiếc.
 
-"Giá như mình có cuốn sách này ngay khi được tái sinh. Mình tự hỏi hôm nay mình sẽ mạnh đến mức nào."
+"Giá như mình có cuốn sách này ngay khi mình được tái sinh. Mình tự hỏi hôm nay mình sẽ mạnh mẽ đến mức nào."
 
-Bất cứ khi nào Lith tìm thấy điều gì đáng chú ý, anh sẽ viết nó vào cuốn ma đạo thư của mình. Lith không thể tin tưởng vào chữ viết xấu của mình, vì vậy anh sẽ nhúng ngón tay vào lọ mực và sau đó sử dụng phép thuật nước để trải mực trên trang, và sau đó làm khô nó.
+Bất cứ khi nào Lith tìm thấy điều gì đó đáng chú ý, anh sẽ viết nó vào cuốn ma đạo thư của mình. Lith không thể tin tưởng vào chữ viết tay xấu của mình, vì vậy anh sẽ nhúng ngón tay vào lọ mực và sau đó sử dụng phép thuật nước để trải mực lên trang, và sau đó làm khô nó.
 
-Kết quả là cả một trang được viết bằng một chữ viết tay xuất sắc, thậm chí sao chép cả hình minh họa khi cần thiết, bằng tiếng Anh hoàn hảo. Tất cả chỉ trong một giây.
+Kết quả là cả một trang được viết bằng một chữ viết tay xuất sắc, ngay cả khi sao chép các hình minh họa khi cần thiết, bằng tiếng Anh hoàn hảo. Tất cả chỉ trong một giây.
 
-"À à à!" Lith cười thầm. "Mình không cần một mã bí mật. Mình là người duy nhất nói tiếng Anh trong thế giới này. Bí mật của mình được an toàn với cuốn ma đạo thư của mình."
+"A ha ha!" Lith cười thầm. "Tôi không cần một mật mã bí mật. Tôi là người duy nhất nói tiếng Anh trong thế giới này. Bí mật của tôi được an toàn với cuốn ma đạo thư của tôi."
 
-"Dù sao thì chúng cũng sẽ an toàn. Đừng quên không gian túi của tôi." Solus xen vào.
+"Dù sao thì chúng cũng sẽ an toàn. Đừng quên không gian bỏ túi của tôi." Solus xen vào.
 
-"Thêm một lớp bảo vệ không bao giờ thừa. Không có gì là quá cẩn thận."
+"Thêm một lớp bảo vệ không bao giờ thừa. Không có thứ gì gọi là quá cẩn thận."
 
 Lith thấy các phần về lửa, nước, không khí và đất khá nhạt nhẽo. Anh đã biết gần như mọi thứ được viết trong sách, nhưng anh đã đọc cẩn thận từng từ.
 
-Nana chỉ cho phép anh đọc cho đến giờ ăn trưa, sau đó anh buộc phải trở về nhà và tiếp tục thói quen trước đây của mình, chuyển thời gian đi săn từ buổi sáng sang buổi chiều.
+Nana chỉ cho phép anh đọc cho đến giờ ăn trưa, sau đó anh bị buộc phải trở về nhà và tiếp tục thói quen trước đây của mình, chuyển thời gian đi săn từ buổi sáng sang buổi chiều.
 
-Anh mất ba ngày để đến được phần hấp dẫn. Lith nhận thức được rằng là một người tự học, phép thuật ánh sáng và bóng tối là những môn học yếu nhất của anh. Rốt cuộc, chúng là hai nguyên tố duy nhất không tồn tại trên Trái đất.
+Anh mất ba ngày để đến phần hấp dẫn. Lith nhận thức được rằng là một người tự học, phép thuật ánh sáng và bóng tối là những môn học yếu nhất của anh. Rốt cuộc, chúng là hai nguyên tố duy nhất không tồn tại trên Trái đất.
 
-Anh đã dành cả một tuần cho phần ánh sáng và bóng tối, ghi chú vô số và cuối cùng hiểu được sự thành thạo của mình đối với những nguyên tố đó nông cạn và thô sơ đến mức nào.
+Anh đã dành cả một tuần cho phần ánh sáng và bóng tối, ghi chú vô số và cuối cùng hiểu được sự thành thạo nông cạn và thô thiển của mình đối với những nguyên tố đó.
 
 "Tuyệt vời, đơn giản là tuyệt vời. Tôi không bao giờ hết ấn tượng về sự hiểu biết sâu sắc của Lochra về ánh sáng và bóng tối. Mô tả của bà về dòng chảy mana trong cơ thể bệnh nhân là vô song. Tôi sẽ không bao giờ tự mình nghĩ ra điều đó.
 
-Chỉ bây giờ tôi mới thực sự hiểu tại sao bà lại viết về chúng trong cùng một phần. Ánh sáng và bóng tối không phải là các nguyên tố riêng biệt, mà là hai mặt của cùng một đồng xu. Bóng tối có tầm quan trọng tối cao đối với việc chữa bệnh và các tình trạng bẩm sinh.
+Chỉ bây giờ tôi mới cuối cùng hiểu tại sao bà ấy lại viết về chúng trong cùng một phần. Ánh sáng và bóng tối không phải là các nguyên tố riêng biệt, mà là hai mặt của cùng một đồng tiền. Bóng tối có tầm quan trọng tối cao để chữa lành bệnh tật và các tình trạng bẩm sinh.
 
-Một khi tôi đã hấp thụ hoàn toàn tất cả kiến thức mới này, tôi thậm chí có thể chữa khỏi cho Tista hoàn toàn. Nếu tôi thực sự xoay sở để làm được điều đó, tôi sẽ suy nghĩ lại về quan điểm của mình về việc trở thành một Magus."
+Một khi tôi đã hấp thụ hoàn toàn tất cả kiến thức mới này, tôi thậm chí có thể chữa khỏi cho Tista một cách tốt đẹp. Nếu tôi thực sự làm được điều đó, tôi sẽ xem xét lại quan điểm của mình về việc trở thành một Magus."
 
-Lith đọc đi đọc lại phần đó, cho đến khi anh chắc chắn rằng mình không bỏ sót bất cứ điều gì. Sức mạnh phép thuật của anh không tăng nhiều, nhưng sự hiểu biết của anh bây giờ đã ở một cấp độ khác đối với tất cả sáu nguyên tố.
+Lith đã đọc đi đọc lại phần đó, cho đến khi anh chắc chắn rằng mình đã không bỏ sót bất cứ điều gì. Sức mạnh ma thuật của anh không tăng nhiều, nhưng sự hiểu biết của anh bây giờ đã ở một cấp độ khác đối với tất cả sáu nguyên tố.
 
-Lith chắc chắn rằng anh sẽ có thể đạt được những nền tảng thậm chí còn mạnh mẽ hơn, cũng như cải thiện phép thuật tinh thần và dung hợp của mình. Nhưng cùng với sự tự tin của mình, những nghi ngờ mới cũng nảy sinh.
+Lith chắc chắn rằng anh sẽ có thể đạt được nền tảng thậm chí còn mạnh mẽ hơn, cũng như cải thiện phép thuật tinh linh và dung hợp của mình. Nhưng cùng với sự tự tin của mình, những nghi ngờ mới cũng nảy sinh.
 
-"Càng học nhiều, nó càng vô lý. Làm thế nào có thể với tất cả kiến thức này trong tay, Nana lại không xoay sở để chữa khỏi cho Tista trong nhiều năm?
+"Càng học nhiều, nó càng vô nghĩa. Làm thế nào có thể với tất cả kiến thức này trong tay, Nana đã không cố gắng chữa khỏi cho Tista trong những năm qua?
 
-Tại sao bà ấy lại cần cả dấu hiệu tay và một từ ma thuật để giết Nam tước Trahan và con trai ông ta? Một cái búng tay là đủ."
+Tại sao bà ấy lại cần cả dấu tay và một từ ma thuật để giết Nam tước Trahan và con trai của ông ta? Một cái búng tay là đủ rồi."
 
-Lith quyết định hoãn những câu hỏi đó cho đến khi anh hoàn toàn hiểu cuốn sách của Lochra. Có lẽ anh đang thiếu một yếu tố quan trọng nào đó, hoặc có lẽ nó không dễ dàng như vẻ ngoài.
+Lith quyết định hoãn những câu hỏi đó cho đến khi anh đã hiểu hoàn toàn cuốn sách của Lochra. Có lẽ anh đang thiếu một số yếu tố quan trọng, hoặc có lẽ nó không dễ dàng như vẻ ngoài.
 
-Nana rất vui khi biết rằng anh đã đọc xong cả cuốn sách chỉ trong một tuần, và ngay lập tức đưa cho anh cuốn sách phép thuật cấp một đầu tiên của anh.
+Nana rất vui khi biết rằng anh đã đọc xong cả cuốn sách chỉ trong một tuần, và ngay lập tức đưa cho anh cuốn sách phép thuật cấp một đầu tiên của mình.
 
-"Để xem con có giỏi thực hành phép thuật như con giỏi lý thuyết của nó không."
+"Để xem con có giỏi thực hành phép thuật như lý thuyết của nó không."
 
 Lith lấy cuốn sách từ tay bà, đối xử với nó như một viên đá quý có thể dễ dàng vỡ. Anh trang trọng đi đến bàn làm việc của mình, mở cuốn sách đầy mong đợi.
 
-Anh sẽ không bao giờ tưởng tượng được mình lại thất vọng đến mức như vậy.
+Anh sẽ không bao giờ tưởng tượng được mình sẽ thất vọng đến mức nào.
 
 "Cái quái gì thế này? Đây là cách một cuốn sách phép thuật được cho là trông như thế nào à?"
 
-"Lạy lõi của tôi, cái thứ vớ vẩn này là gì?" Solus lần đầu tiên trong đời chửi thề.
+"Lạy lõi của tôi, cái thứ vớ vẩn này là gì vậy?" Solus lần đầu tiên trong đời nguyền rủa.
 
-Cả Lith và Solus đều quá sững sờ để có thể bình luận thêm. Vì vậy, họ đóng cuốn sách lại, mở lại một lần nữa, phát hiện ra nó không thay đổi.
+Cả Lith và Solus đều quá sững sờ để có thể bình luận thêm. Vì vậy, họ đã đóng sách lại, mở lại, phát hiện ra nó không thay đổi.
 
-Họ đã mong đợi nó sẽ chứa đầy những hướng dẫn về cách điều khiển dòng chảy mana trong cơ thể pháp sư, cách kết nối tốt hơn với năng lượng thế giới để có được những phép thuật có sức mạnh không thể so sánh với những phép thuật mà họ đã biết.
+Họ đã mong đợi nó sẽ chứa đầy những hướng dẫn về cách điều khiển dòng chảy mana trong cơ thể của pháp sư, cách kết nối tốt hơn với năng lượng thế giới để có được những phép thuật có sức mạnh không thể so sánh với những phép thuật mà họ đã biết.
 
-Thay vào đó, tất cả những gì họ tìm thấy là một sự pha trộn kỳ lạ của một cuốn sách đánh vần và một cuốn hướng dẫn sử dụng dấu hiệu tay. Chưa kể rằng họ đã biết tất cả những phép thuật cấp một đó, chỉ với những cái tên khác nhau mà Lith đã phát minh ra theo thời gian.
+Thay vào đó, tất cả những gì họ tìm thấy là một sự pha trộn kỳ lạ giữa một cuốn sách đánh vần và một cuốn hướng dẫn sử dụng dấu tay. Chưa kể rằng họ đã biết tất cả những phép thuật cấp một đó, chỉ với những cái tên khác nhau mà Lith đã phát minh ra theo thời gian.
 
-"Quả Cầu Nổ chỉ là một Quả Cầu Lửa, Băng Xuyên Thấu giống hệt với Ngọn Giáo Băng của tôi, nếu không muốn nói là tệ hơn."
+"Quả cầu Nổ chỉ là một Quả cầu lửa, Băng xuyên thấu giống hệt như Ngọn giáo Băng của tôi, nếu không muốn nói là tệ hơn."
 
-Lith quay lại lời nói đầu, nhận thấy rằng cuốn sách này không được viết bởi một Magus, và chỉ là một bộ sưu tập các phép thuật phổ biến nhất.
+Lith quay lại lời tựa, nhận thấy rằng cuốn sách này không được viết bởi một Magus, và chỉ là một bộ sưu tập các phép thuật phổ biến nhất.
 
-Bằng cách đọc hướng dẫn cho Quả Cầu Nổ, Lith nhận thấy tác giả đã nhấn mạnh tầm quan trọng của việc thực hiện các dấu hiệu tay theo đúng thứ tự với các chuyển động chính xác.
+Bằng cách đọc hướng dẫn cho Quả cầu Nổ, Lith nhận thấy tác giả đã nhấn mạnh tầm quan trọng của việc thực hiện các dấu tay theo đúng thứ tự với các chuyển động chính xác.
 
-Ngay cả từ ma thuật cũng được chia thành các âm tiết, để giúp học sinh học cách phát âm và nhấn nhá chính xác. Sau khi lướt qua cả cuốn sách, Lith không thể tìm thấy bất kỳ đề cập nào về cách thực hiện chúng bằng phép thuật im lặng.
+Ngay cả từ ma thuật cũng được chia thành các âm tiết, để giúp học sinh học cách phát âm và nhấn giọng chính xác. Sau khi lướt qua cả cuốn sách, Lith không thể tìm thấy bất kỳ đề cập nào về cách thực hiện chúng bằng phép thuật không lời.
 
 Ngày càng bối rối hơn, Lith đến gặp Nana để xin lời khuyên.
 
-"Ta xin lỗi Lith, ta đã quên mất việc đi từ phép thuật việc vặt im lặng đơn giản và dễ dàng đến phép thuật thực sự phức tạp hơn nhiều đến mức nào. Chỉ có phép thuật cấp không mới có thể được thi triển một cách im lặng. Tất cả các cấp độ phép thuật cao hơn đều yêu cầu cả dấu hiệu tay và cách đánh vần đúng của từ ma thuật."
+"Ta xin lỗi Lith, ta đã quên mất việc đi từ phép thuật việc vặt không lời đơn giản và dễ dàng đến phép thuật thực sự phức tạp hơn nhiều là khó chịu và đau đớn như thế nào. Chỉ có phép thuật cấp không mới có thể được sử dụng không lời. Tất cả các cấp phép thuật cao hơn đều đòi hỏi cả dấu tay và cách đánh vần đúng của từ ma thuật."
 
 Đầu của Lith quay cuồng đến nỗi anh phải ngồi xuống một lúc.
 
-"Điều này hoàn toàn vô lý." Anh nghĩ. "Mình sử dụng phép thuật im lặng với những ngọn giáo băng và quả cầu lửa của mình mọi lúc. Nếu không thì mình đã không còn sống."
+"Điều này hoàn toàn vô nghĩa." Anh nghĩ. "Tôi sử dụng phép thuật không lời với những ngọn giáo băng và quả cầu lửa của mình mọi lúc. Nếu không thì tôi đã không còn sống."
 
-Sau đó, một ý nghĩ đột ngột nảy ra trong đầu anh.
+Sau đó, một ý nghĩ bất chợt nảy ra trong đầu anh.
 
-"Có lẽ mình đặc biệt, rốt cuộc. Có lẽ mình sử dụng một loại phép thuật khác vì mình đến từ Trái đất. Có lẽ mình là một loại người được chọn!" Lith vừa sợ hãi vừa hãnh diện trước ý tưởng đó.
+"Có lẽ mình đặc biệt, sau tất cả. Có lẽ mình sử dụng một loại phép thuật khác vì mình đến từ Trái đất. Có lẽ mình là một loại người được chọn!" Lith vừa sợ hãi vừa hãnh diện trước ý nghĩ đó.
 
-"Không có cái nào ở trên." Lời nói của Solus đột ngột dập tắt sự nhiệt tình của anh.
+"Không có điều nào ở trên." Những lời nói của Solus đột ngột dập tắt sự nhiệt tình của anh.
 
-"Cảm ơn vì đã tin tưởng. Rất cảm kích. Vậy lời giải thích của cô là gì?"
+"Cảm ơn vì sự tin tưởng. Rất cảm kích. Vậy lời giải thích của cô là gì?"
 
-Lith có thể cảm thấy tâm trí của Solus quay cuồng nhanh đến mức anh khó có thể theo kịp lý luận của cô.
+Lith có thể cảm thấy tâm trí của Solus quay cuồng đến nỗi anh khó có thể theo kịp lý luận của cô.
 
-"Nếu giả thuyết của tôi là đúng, thì anh, giống như Lochra Silverwing và tất cả các Magus trong quá khứ và hiện tại khác, là một trong số ít người trên thế giới này thực sự sử dụng phép thuật thực sự."
+"Nếu giả thuyết của tôi là đúng, thì anh, giống như Lochra Silverwing và tất cả các Magus trong quá khứ và hiện tại khác, là một trong số ít người trên thế giới này thực sự sử dụng phép thuật đích thực."

@@ -1,47 +1,47 @@
-Chương -1 Bảng Chú Giải Tập 2
+Chương -1 Tập 2 Bảng chú giải
 
-Lưu ý của tác giả: Đây không phải là một chương. Nó chỉ là danh sách các nhân vật trong tập 2 theo thứ tự xuất hiện, để giúp người đọc nhớ ai là ai. Bỏ qua phần này nếu bạn chưa đọc Tập 2 hoặc nếu trí nhớ của bạn không cần trợ giúp.
+Ghi chú của tác giả: Đây không phải là một chương. Nó chỉ là danh sách các nhân vật trong tập 2 theo thứ tự xuất hiện, để giúp người đọc nhớ ai là ai. Bỏ qua phần này nếu bạn chưa đọc Tập 2 hoặc nếu trí nhớ của bạn không cần trợ giúp.
 
 Nhân viên Học viện White Griffon:
 
 Hiệu trưởng Linjos: Vị hiệu trưởng trẻ tuổi của học viện White Griffon, đang cố gắng cải cách học viện thay mặt cho Nữ hoàng.
 
-Giáo sư Jian Trasque: Dạy lớp "Lý thuyết Phép thuật Chiến đấu", dạy cho học sinh tầm quan trọng của phép thuật đầu tiên (việc vặt) và cách sử dụng nó để sống sót trong các cuộc chạm trán gần, khi không có phép thuật giả.
+Giáo sư Jian Trasque: Giảng dạy lớp "Lý thuyết Phép thuật Chiến đấu", dạy cho sinh viên tầm quan trọng của phép thuật đầu tiên (việc vặt) và cách sử dụng nó để sống sót trong các cuộc chạm trán gần, khi không có phép thuật giả.
 
-Giáo sư Valesa Nalear: Dạy lớp "Nguyên tắc Phép thuật Cao cấp", dạy cho học sinh một phương pháp độc quyền của sáu học viện lớn về cách thi triển các phép thuật bậc bốn trở lên.
+Giáo sư Valesa Nalear: Giảng dạy lớp "Nguyên tắc Phép thuật Nâng cao", dạy cho sinh viên một phương pháp độc quyền của sáu học viện lớn về cách sử dụng các phép thuật bậc bốn trở lên.
 
 Giáo sư Vastor: Giáo sư phụ trách lớp chuyên ngành Trị liệu sư.
 
-Giáo sư Duke Marth: Trưởng khoa Ánh sáng của White Griffon. Một pháp sư lỗi lạc và là người duy nhất có khả năng đối phó với Manohar. Cameo của Dittomarth.
+Giáo sư Duke Marth: Trưởng khoa Ánh sáng của White Griffon. Một pháp sư lỗi lạc và là người duy nhất có khả năng xử lý Manohar. Vai diễn khách mời của Dittomarth.
 
-Giáo sư Krishna Manohar: Biệt danh là "thần chữa bệnh", là một pháp sư thiên tài với thái độ hoang dã và thất thường. Cameo của Eddicted.
+Giáo sư Krishna Manohar: Biệt danh là "thần chữa bệnh", là một pháp sư thiên tài với thái độ hoang dã và nóng nảy. Vai diễn khách mời của Eddicted.
 
-Giáo sư Lyca Wanemyre: Giáo sư phụ trách lớp chuyên ngành Thợ rèn ma pháp.
+Giáo sư Lyca Wanemyre: Giáo sư phụ trách lớp chuyên ngành Thợ rèn.
 
-Giáo sư Rugan Thorman: Giáo sư phụ trách lớp chuyên ngành Hiệp sĩ Phép thuật.
+Giáo sư Rugan Thorman: Giáo sư phụ trách lớp chuyên ngành Hiệp sĩ Pháp sư.
 
-Các học sinh liên quan của Học viện White Griffon:
+Học sinh có liên quan của Học viện White Griffon:
 
-Yurial Deirus: Con trai của đại pháp sư Deirus, theo học hai chuyên ngành: Trị liệu sư và Hộ vệ.
+Yurial Deirus: Con trai của đại pháp sư Deirus, đảm nhận hai chuyên ngành: Trị liệu sư và Giám thị.
 
-Friya Solivar: Con gái của Nữ công tước Solivar, theo học hai chuyên ngành: Trị liệu sư và Hiệp sĩ Phép thuật.
+Friya Solivar: Con gái của Nữ công tước Solivar, đảm nhận hai chuyên ngành: Trị liệu sư và Hiệp sĩ Pháp sư
 
 Quylla từ Cerea: Một đứa trẻ mồ côi từ một ngôi làng hẻo lánh, với mục tiêu trở thành một Trị liệu sư như Lith. Trước khi đến học viện, cô bị suy dinh dưỡng nặng.
 
-Visen De Brae: Thuộc nhóm của Lith trong Kỳ thi Thử. Anh đang học để trở thành một Hộ vệ.
+Visen De Brae: Một phần của Nhóm của Lith trong Kỳ thi Thử. Anh ấy đang học để trở thành một Giám thị.
 
-Milna Kratic: Thuộc nhóm của Lith trong Kỳ thi Thử. Cô đang học để trở thành một Pháp sư Chiến tranh.
+Milna Kratic: Một phần của Nhóm của Lith trong Kỳ thi Thử. Cô ấy đang học để trở thành một Pháp sư Chiến tranh.
 
-Phloria Ernas: Thuộc nhóm của Lith trong Kỳ thi Thử. Cô đang học để trở thành một Hiệp sĩ Phép thuật.
+Phloria Ernas: Một phần của Nhóm của Lith trong Kỳ thi Thử. Cô ấy đang học để trở thành một Hiệp sĩ Pháp sư.
 
-Belia Ulphar: Thuộc nhóm của Lith trong Kỳ thi Thử. Cô đang học để trở thành một Pháp sư Chiến trận.
+Belia Ulphar: Một phần của Nhóm của Lith trong Kỳ thi Thử. Cô ấy đang học để trở thành một Pháp sư Chiến đấu.
 
 Sinh vật trong rừng:
 
-Scarlett: Trùm của khu rừng, là một Scorpicore khổng lồ mạnh mẽ giúp giám sát các kỳ thi diễn ra trong vùng hoang dã. Cameo của Scarlett.
+Scarlett: Trùm của khu rừng, là một Scorpicore khổng lồ mạnh mẽ giúp giám sát các kỳ thi diễn ra trong vùng hoang dã. Vai diễn khách mời của Scarlett.
 
-M'Rook: Một Ry (Cameo của Lusername), một loại ma thú dạng sói. Cấp phó của Scarlett và là thủ lĩnh của một đội tinh nhuệ.
+M'Rook: Một Ry (Vai diễn khách mời của Lusername), một loại ma thú sói. Cấp dưới của Scarlett và là thủ lĩnh của một đội quân tinh nhuệ.
 
-Sentar: Một Cron, một loại ma thú dạng diều hâu. Thành viên của đội tinh nhuệ dưới quyền M'Rook.
+Sentar: Một Cron, một loại ma thú diều hâu. Thành viên của đội quân tinh nhuệ dưới quyền M'Rook.
 
-Termyn: Một Cingy, một loại ma thú dạng lợn rừng. Thành viên của đội tinh nhuệ dưới quyền M'Rook.
+Termyn: Một Cingy, một loại ma thú lợn rừng. Thành viên của đội quân tinh nhuệ dưới quyền M'Rook.
